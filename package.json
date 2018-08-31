@@ -1,6 +1,6 @@
 {
   "name": "loafjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "javascript utility library",
   "main": "loaf.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/falsy/loafjs.git"
+    "url": "https://github.com/loafjs/loafjs.git"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -16,6 +16,6 @@
   "keywords": ["util"],
   "author": "falsy",
   "license": "WTFPL",
-  "bugs": "https://github.com/falsy/loafjs/issues",
+  "bugs": "https://github.com/loafjs/loafjs/issues",
   "homepage": "https://falsy.me"
 }
