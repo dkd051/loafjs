@@ -1,0 +1,21 @@
+{
+  "name": "loafjs",
+  "version": "0.0.2",
+  "description": "javascript utility library",
+  "main": "loaf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falsy/loafjs.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": ["util"],
+  "author": "falsy",
+  "license": "WTFPL",
+  "bugs": "https://github.com/falsy/loafjs/issues",
+  "homepage": "https://falsy.me"
+}
